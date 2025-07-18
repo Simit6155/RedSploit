@@ -28,6 +28,7 @@ This is an educational reverse shell builder and listener toolkit developed by [
 ### Requirements
 
 - Kali Linux or Debian-based distro
+- also works with Windows
 - `git` installed
 - Internet connection
 - Python 3
