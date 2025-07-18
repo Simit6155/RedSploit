@@ -84,6 +84,11 @@ Then run the listener from inside the cloned folder.
 Press q to exit the program at any time.
 🔒 Legal & Disclaimer
 
+Turning it into a EXE
+Use the PyToExe.py file to convert the Payload/Listener into a exe.
+(WORKS ONLY FOR THE PYTHON FILE)
+Dont forget to change the Host IP and the Port in both of the files (Payload + Listener)
+
 This tool is designed for ethical hacking, red teaming, and penetration testing. Use it only in environments where you have explicit permission (e.g., your own lab or with a signed agreement).
 
 You are fully responsible for how you use this tool.
