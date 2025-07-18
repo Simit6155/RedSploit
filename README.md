@@ -1,4 +1,4 @@
-# ☠️ RedSploit by semih
+# ☠️ RedSploit
 
 This is an educational reverse shell builder and listener toolkit developed by [RedSimit](https://github.com/Simit6155). It supports multiple reverse shell clients and allows quick setup for red team operations and ethical hacking labs.
 
@@ -94,6 +94,6 @@ This tool is designed for ethical hacking, red teaming, and penetration testing.
 You are fully responsible for how you use this tool.
 📎 Credits
 
-Made by Simit
+Made by Semih
 Instagram: @redsimit
 Discord: https://discord.gg/r3PxFWXTNS
